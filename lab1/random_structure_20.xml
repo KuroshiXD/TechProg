@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library>
+    <book id="1">
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <year>1987</year>
+        <genre>History</genre>
+        <price currency="RUB">67.45</price>
+        <format>Print</format>
+        <reviews>
+            <review>
+                <user>charlie</user>
+                <rating>5</rating>
+                <comment>Great book!</comment>
+            </review>
+            <review>
+                <user>eve</user>
+                <rating>5</rating>
+                <comment>Excellent content.</comment>
+            </review>
+        </reviews>
+        <language>French</language>
+        <translator>Joshua Bloch</translator>
+        <awards>
+            <award>Best Seller</award>
+            <award>Critics' Choice</award>
+        </awards>
+    </book>
+    <book id="2">
+        <title>Java Programming</title>
+        <author>Robert C. Martin</author>
+        <year>2019</year>
+        <genre>Non-Fiction</genre>
+        <price currency="JPY">42.24</price>
+        <language>Russian</language>
+        <translator>John Doe</translator>
+        <awards>
+            <award>Critics' Choice</award>
+        </awards>
+    </book>
+    <book id="3">
+        <title>Foundation</title>
+        <author>John Doe</author>
+        <year>2021</year>
+        <genre>Science</genre>
+        <price currency="USD">91.85</price>
+        <format>Ebook</format>
+        <publisher>
+            <name>SciTech Publishers</name>
+            <address>
+                <city>Moscow</city>
+                <country>Russia</country>
+            </address>
+        </publisher>
+        <translator>Jane Austen</translator>
+    </book>
+    <book id="4">
+        <title>Pride and Prejudice</title>
+        <author>George Orwell</author>
+        <year>2006</year>
+        <genre>History</genre>
+        <price currency="EUR">38.29</price>
+        <isbn>978-3-216854354</isbn>
+        <language>French</language>
+        <translator>John Doe</translator>
+        <awards>
+            <award>Critics' Choice</award>
+            <award>Critics' Choice</award>
+            <award>Critics' Choice</award>
+        </awards>
+    </book>
+</library>
